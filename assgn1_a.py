@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 20 11:12:02 2022
 
-@author: MD Jahangeer
+@author: Mubeena
 """
 
 radius = float(input("Enter the radius "))
